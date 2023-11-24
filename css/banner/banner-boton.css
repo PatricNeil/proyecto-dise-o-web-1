@@ -1,0 +1,43 @@
+.banner__boton{
+    margin-top: 1.5rem;
+    cursor: pointer;
+    color: #fff;
+    background-color: #6A00FF;
+    padding: 7px 20px;
+    border: none;
+    font-size: 18px;
+    font-weight: 300;
+    border-radius: 22px;
+}
+.banner__boton:hover{
+    box-shadow: 0 0 10px #FFB1FF;
+    background-color: #FFB1FF;
+}
+/*.banner__boton::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        45deg,
+        red, blue,deeppink,blue,red,blue,deeppink,blue
+        );
+    background-size: 800%;
+    border-radius: 20px;
+    filter: blur(8px);
+    animation: glowing 20s linear infinite;
+}
+@keyframes glowing{
+    0%{
+        background-position: 0 0;
+    }
+    50%{
+        background-position: 400% 0;
+    }
+    100%{
+        background-position: 0 0;
+    }
+}*/

@@ -1,0 +1,9 @@
+.navegador{
+    background-color: #1a1a1a;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    font-family: 'Readex Pro';
+    padding: 0.5rem 0 0.2rem 0;
+}

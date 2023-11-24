@@ -1,0 +1,9 @@
+.populares{
+    display: flex;
+    flex-direction: row;
+    column-gap: 1.5rem;
+    padding: 30px;
+    font-family: 'Readex Pro';
+    justify-content: center;
+    background-color: #1a1a1a;
+}

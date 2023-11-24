@@ -1,0 +1,9 @@
+.banner__contenido{
+    height: calc(100vh - 72px);
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    text-align: center;
+    font-family: 'Readex Pro';
+
+}

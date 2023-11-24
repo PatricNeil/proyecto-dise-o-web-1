@@ -1,0 +1,15 @@
+.registrar{
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 50px;
+    background: #6A00FF;
+    font-weight: 300;
+}
+.registrar i{
+    padding-right: 10px;
+}
+.registrar:hover{
+    box-shadow: 0 0 10px #FFB1FF;
+    background-color: #FFB1FF;
+}

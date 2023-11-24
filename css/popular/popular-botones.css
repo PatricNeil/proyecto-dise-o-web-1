@@ -1,0 +1,24 @@
+.popular__botones{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.popular__boton1{
+    cursor: pointer;
+    text-decoration: none;
+    color: #00E5FF;
+    font-size: 16px;
+    padding: 0 8px;
+    border: 2px solid #00E5FF;
+    border-radius: 8px;
+}
+.popular__boton2{
+    cursor: pointer;
+    text-decoration: none;
+    color: #00829B;
+    font-size: 16px;
+    padding: 1px 8px;
+    border: 2px solid #00829B;
+    border-radius: 8px;
+}
